@@ -1,5 +1,3 @@
-# Payout Automation - Selenium
-
 ## Description
 This project automates Flipkart product selection.
 
